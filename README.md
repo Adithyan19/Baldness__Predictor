@@ -1,34 +1,33 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/98fbf9f3-1f15-4836-9313-ed86d92de68f" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Baldness_Detector] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Thenga]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Adithyan M C] - [TKM College of Engineering]
+- Member 2: [Noah John Puthayathu] - [TKM College of Engineering]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Baldness Predictor is a Streamlit web app powered by a CNN model that analyzes front-facing headshots to predict baldness. Upload a photo to see what the AI thinks — hair today, gone tomorrow?]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People live in denial about their hairline. Mirrors lie, friends sugarcoat — but deep down, everyone fears the forehead creep.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[People live in denial about their hairline. Mirrors lie, friends sugarcoat — but deep down, everyone fears the forehead creep.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used: Python]
+- [Frameworks used: TensorFlow, Keras, Streamlit]
+- [Libraries used: NumPy, Pillow (PIL), OS]
+- [Tools used: Streamlit CLI, Virtual Environment (venv)]
 
 For Hardware:
 - [List main components]
@@ -38,16 +37,24 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone <your_repo_url>
+cd Baldness_Predictor
+python -m venv bald-env
+source bald-env/Scripts/activate  # On Windows use: bald-env\Scripts\activate.bat
+pip install -r requirements.txt
+
+Download baldness_cnn_model.h5
+from Releases so that you dont have to train the model
 
 # Run
-[commands]
+streamlit run app.py
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]<img width="1919" height="968" alt="Screenshot 2025-08-02 061952" src="https://github.com/user-attachments/assets/4a154b16-ee8e-4db4-a7c4-e43360766f8b" />
+(Streamlit UI)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
