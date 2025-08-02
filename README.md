@@ -54,14 +54,17 @@ For Software:
 # Screenshots (Add at least 3)
 <img width="1919" height="968" alt="Screenshot 2025-08-02 061952" src="https://github.com/user-attachments/assets/4a154b16-ee8e-4db4-a7c4-e43360766f8b" />
 (Streamlit UI)
+
 *This is the streamlit UI for my model*
 
 <img width="1919" height="962" alt="Screenshot 2025-08-02 062010" src="https://github.com/user-attachments/assets/a9e1201d-d2dd-4387-a372-19d600748a07" />
 (HIGH chance of balding)
+
 *Detecting a person who has high chance of balding*
 
 <img width="1919" height="968" alt="Screenshot 2025-08-02 062029" src="https://github.com/user-attachments/assets/fd6dcd2e-ae27-48ef-80ac-e3885c21c66f" />
 (LOW chance of balding)
+
 *Detecting a person who has low chance of balding*
 
 ### Project Demo
