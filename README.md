@@ -32,11 +32,13 @@ For Software:
 For Software:
 
 # Installation
-git clone <your_repo_url>
+`git clone <your_repo_url>
 cd Baldness_Predictor
 python -m venv bald-env
-source bald-env/Scripts/activate  # On Windows use: bald-env\Scripts\activate.bat
-pip install -r requirements.txt
+source bald-env/bin/activate  # On macOS/Linux
+# On Windows use:
+# bald-env\Scripts\activate.bat
+pip install -r requirements.txt`
 
 Download baldness_cnn_model.h5
 from Releases so that you dont have to train the model
