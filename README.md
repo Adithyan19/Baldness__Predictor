@@ -1,39 +1,36 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-# [Baldness_Detector] 🎯
+
+#### Baldness_Predictor 🎯
 
 
 ## Basic Details
-### Team Name: [Thenga]
+### Team Name: Thenga
 
 
 ### Team Members
-- Team Lead: [Adithyan M C] - [TKM College of Engineering]
-- Member 2: [Noah John Puthayathu] - [TKM College of Engineering]
+- Team Lead: Adithyan M C - TKM College of Engineering
+- Member 2: Noah John Puthayathu - TKM College of Engineering
 
 ### Project Description
-[Baldness Predictor is a Streamlit web app powered by a CNN model that analyzes front-facing headshots to predict baldness. Upload a photo to see what the AI thinks — hair today, gone tomorrow?]
+Baldness Predictor is a Streamlit web app powered by a CNN model that analyzes front-facing headshots to predict baldness. Upload a photo to see what the AI thinks — hair today, gone tomorrow?
 
 ### The Problem (that doesn't exist)
-[People live in denial about their hairline. Mirrors lie, friends sugarcoat — but deep down, everyone fears the forehead creep.]
+People live in denial about their hairline. Mirrors lie, friends sugarcoat — but deep down, everyone fears the forehead creep.
 
 ### The Solution (that nobody asked for)
-[People live in denial about their hairline. Mirrors lie, friends sugarcoat — but deep down, everyone fears the forehead creep.]
+We trained a neural network to stare at your scalp and spill the truth. Upload a photo, and our AI judge delivers a no-nonsense verdict — emoji included. Baldness? Detected.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used: Python]
-- [Frameworks used: TensorFlow, Keras, Streamlit]
-- [Libraries used: NumPy, Pillow (PIL), OS]
-- [Tools used: Streamlit CLI, Virtual Environment (venv)]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages used: Python
+- Frameworks used: TensorFlow, Keras, Streamlit
+- Libraries used: NumPy, Pillow (PIL), OS
+- Tools used: Streamlit CLI, Virtual Environment (venv)
 
 ### Implementation
 For Software:
+
 # Installation
 git clone <your_repo_url>
 cd Baldness_Predictor
@@ -51,51 +48,32 @@ streamlit run app.py
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]<img width="1919" height="968" alt="Screenshot 2025-08-02 061952" src="https://github.com/user-attachments/assets/4a154b16-ee8e-4db4-a7c4-e43360766f8b" />
+<img width="1919" height="968" alt="Screenshot 2025-08-02 061952" src="https://github.com/user-attachments/assets/4a154b16-ee8e-4db4-a7c4-e43360766f8b" />
 (Streamlit UI)
-*Add caption explaining what this shows*
+*This is the streamlit UI for my model*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="962" alt="Screenshot 2025-08-02 062010" src="https://github.com/user-attachments/assets/a9e1201d-d2dd-4387-a372-19d600748a07" />
+(HIGH chance of balding)
+*Detecting a person who has high chance of balding*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1919" height="968" alt="Screenshot 2025-08-02 062029" src="https://github.com/user-attachments/assets/fd6dcd2e-ae27-48ef-80ac-e3885c21c66f" />
+(LOW chance of balding)
+*Detecting a person who has low chance of balding*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Adithyan M C:
+-   Collected and labeled the dataset
+-   Built and trained the CNN model
+-   Designed the Streamlit interface
+-   Integrated the model into the app
+-   Debugged, tested, and deployed the project solo like a true one-man army 🫡
+- Noah John Puthayathu: 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
