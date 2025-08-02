@@ -76,13 +76,13 @@ For Software:
 
 
 ## Team Contributions
-- Adithyan M C:
+Adithyan M C:
 -   Collected and labeled the dataset
 -   Built and trained the CNN model
 -   Designed the Streamlit interface
 -   Integrated the model into the app
 -   Debugged, tested, and deployed the project solo like a true one-man army 🫡
-- Noah John Puthayathu: 
+Noah John Puthayathu:
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
