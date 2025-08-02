@@ -71,8 +71,9 @@ For Software:
 
 ### Project Demo
 # Video
-(https://drive.google.com/drive/folders/1orusO59HFtFHnyrP5LrxzDqu7kWZsP7U?usp=sharing)
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1orusO59HFtFHnyrP5LrxzDqu7kWZsP7U?usp=sharing
+
+*Video demonstrates the prediction of the model with different people*
 
 
 ## Team Contributions
