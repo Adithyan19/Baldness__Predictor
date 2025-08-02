@@ -82,6 +82,7 @@ Adithyan M C:
 -   Designed the Streamlit interface
 -   Integrated the model into the app
 -   Debugged, tested, and deployed the project solo like a true one-man army 🫡
+
 Noah John Puthayathu:
 
 ---
