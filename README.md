@@ -41,10 +41,12 @@ pip install -r requirements.txt
 ```
 
 Download baldness_cnn_model.h5
-from Releases so that you dont have to train the model
+from Releases so that you dont have to train the model.
 
 # Run
+```bash
 streamlit run app.py
+```
 
 ### Project Documentation
 For Software:
