@@ -2,6 +2,8 @@
 
 #### Baldness_Predictor 🎯
 
+Deployed App
+https://baldnesspredictor-cr7ak7t3kzj4lqdcop4vzc.streamlit.app/
 
 ## Basic Details
 ### Team Name: Thenga
@@ -47,8 +49,6 @@ from Releases so that you dont have to train the model.
 ```bash
 streamlit run app.py
 ```
-Deployed App
-https://baldnesspredictor-cr7ak7t3kzj4lqdcop4vzc.streamlit.app/
 
 ### Project Documentation
 For Software:
